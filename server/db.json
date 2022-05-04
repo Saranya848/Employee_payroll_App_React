@@ -1,0 +1,52 @@
+{
+  "employee": [
+    {
+      "name": "Saranya",
+      "department": [
+        "Engineer"
+      ],
+      "gender": "female",
+      "salary": "314325",
+      "startDate": "12 Mar 2019",
+      "notes": "Project",
+      "id": 1,
+      "profileURL": "../../assets/profile-images/Ellipse -1.png"
+    },
+    {
+      "name": "Ram",
+      "department": [
+        "Engineer"
+      ],
+      "gender": "male",
+      "salary": "656000",
+      "startDate": "16 Oct 2017",
+      "notes": "Node Project",
+      "id": 2,
+      "profileURL": "../../assets/profile-images/Ellipse -3.png"
+    },
+    {
+      "name": "Harsha",
+      "department": [
+        "HR"
+      ],
+      "gender": "male",
+      "salary": "105000",
+      "startDate": "12 Jan 2016",
+      "notes": "Finance",
+      "id": 3,
+      "profileURL": "../../Assets/profile-images/Ellipse -8.png"
+    },
+    {
+      "name": "Sai",
+      "department": [
+        "Sales"
+      ],
+      "gender": "male",
+      "salary": "1000",
+      "startDate": "18 Dec 2021",
+      "notes": "",
+      "id": 4,
+      "profileURL": "../../assets/profile-images/Ellipse -3.png"
+    }
+  ]
+}
