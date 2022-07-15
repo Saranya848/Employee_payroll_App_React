@@ -1,0 +1,41 @@
+{
+  "employee": [
+    {
+      "name": "Saranya",
+      "department": [
+        "HR"
+      ],
+      "gender": "female",
+      "salary": "800000",
+      "startDate": "18 Nov 2017",
+      "notes": "gggg",
+      "id": 1604589731068,
+      "profileURL": "../../assets/profile-images/Ellipse -1.png"
+    },
+    {
+      "name": "Swathi",
+      "department": [
+        "Engineer"
+      ],
+      "gender": "female",
+      "salary": "500000",
+      "startDate": "13 Sep 2018",
+      "notes": "Hello",
+      "id": 1604589731069,
+      "profileURL": "../../assets/profile-images/Ellipse -7.png"
+    },
+    {
+      "name": "Raj",
+      "department": [
+        "Sales",
+        "Finance"
+      ],
+      "gender": "male",
+      "salary": "800000",
+      "startDate": "17 Oct 2019",
+      "notes": "Welcome",
+      "id": 1604589731070,
+      "profileURL": "../../assets/profile-images/Ellipse -3.png"
+    }
+  ]
+}
